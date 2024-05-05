@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 # 👋 Hi, I’m Samuel Ojeyinka (@samojeyinka)
 
 - 👀 I’m interested in roles related to my skills, including full-stack, frontend, and backend development.
