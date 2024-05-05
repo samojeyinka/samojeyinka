@@ -61,16 +61,21 @@
     </div>
 </div>
 
- <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+     <br/>
+  <img width=390 src="href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samojeyinka&theme=tokyonight" alt="GitHub Streak"/>
+     <br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=samojeyinka&show_icons=true&theme=transparent" alt="readme stats" bg_color="#ff0000"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=transparent" alt="top langs" />
 </div>
+
+
+
 
 <!---
 samojeyinka/samojeyinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
