@@ -12,7 +12,7 @@
 
 👀 I’m interested in roles related to my skills, including full-stack/frontend/backend development.
 
-🌱 Currently learning Data Dto Structures & Algorithm to xpand my knowledge in Software Engineering.
+🌱 Currently learning Data Structures & Algorithm to xpand my knowledge in Software Engineering.
 
 💞️ Open to collaborating on exciting projects.
 
@@ -32,6 +32,17 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+ <hr/>
+
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ <br/>
+ <div align="center">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+ 
 
 # 👋 Hi, I’m Samuel Ojeyinka (@samojeyinka)
 
