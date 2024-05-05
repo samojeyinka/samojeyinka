@@ -6,6 +6,19 @@
 
 <h3 align="center">Full-stack Developer</h3>
 
+<br/>
+
+<div align="center">
+
+- 👀 I’m interested in roles related to my skills, including full-stack, frontend, and backend development.
+- 
+- 🌱 Currently learning to expand my knowledge in various technologies.
+- 
+- 💞️ Open to collaborating on exciting projects.
+- 
+- 📫 How to reach me: Feel free to send me a message samuelojeyinka@gmail.com.
+
+ </div>
 # 👋 Hi, I’m Samuel Ojeyinka (@samojeyinka)
 
 - 👀 I’m interested in roles related to my skills, including full-stack, frontend, and backend development.
