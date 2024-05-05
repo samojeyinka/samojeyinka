@@ -10,10 +10,10 @@
 
 <div align="left">
 
-- 👀 I’m interested in roles related to my skills, including full-stack, frontend, and backend development.
-- 🌱 Currently learning to expand my knowledge in various technologies.
-- 💞️ Open to collaborating on exciting projects.
-- 📫 How to reach me: Feel free to send me a message samuelojeyinka@gmail.com.
+👀 I’m interested in roles related to my skills, including full-stack/frontend/backend development.
+🌱 Currently learning Data Dto Structures & Algorithm to xpand my knowledge in Software Engineering.
+💞️ Open to collaborating on exciting projects.
+📫 How to reach me: Feel free to send me a message samuelojeyinka@gmail.com.
 
  </div>
 # 👋 Hi, I’m Samuel Ojeyinka (@samojeyinka)
