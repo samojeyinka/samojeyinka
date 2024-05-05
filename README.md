@@ -71,7 +71,7 @@
      <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=samojeyinka&show_icons=true&theme=transparent" alt="readme stats" bg_color="#ff0000"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=transparent" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samojeyinka&size_weight=0.5&count_weight=0.5&theme=transparent" alt="top langs" />
 </div>
 
 
