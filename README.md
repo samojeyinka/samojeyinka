@@ -12,7 +12,7 @@
 
 👀 I’m interested in Software development.
 
-🌱 Currently learning Data Structures & Algorithm to xpand my knowledge in Software Engineering.
+🌱 Currently open to Remote oppurtunities.
 
 💞️ Open to collaborating on exciting projects.
 
