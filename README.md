@@ -10,7 +10,7 @@
 
 <div align="left">
 
-👀 I’m interested in Software development.
+👀 I’m interested in Software development role.
 
 🌱 Currently open to Remote oppurtunities.
 
