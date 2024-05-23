@@ -10,7 +10,7 @@
 
 <div align="left">
 
-👀 I’m interested in roles related to my skills, including full-stack/frontend/backend development.
+👀 I’m interested in Software development.
 
 🌱 Currently learning Data Structures & Algorithm to xpand my knowledge in Software Engineering.
 
