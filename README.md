@@ -10,12 +10,6 @@
 
 <div align="left">
 
-👀 I’m interested in Software development role.
-
-🌱 Currently open to Remote oppurtunities.
-
-💞️ Open to collaborating on exciting projects.
-
 📫 How to reach me: Feel free to send me a message samuelojeyinka@gmail.com.
 
  </div>
