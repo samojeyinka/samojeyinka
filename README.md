@@ -2,7 +2,7 @@
 
 **🛠️ Builder | 🚀 Shipping products that make work easier**
 
-I build software that solves real problems, from national-scale government platforms to tools that make everyday work simpler.
+I build software that solves real problems, from national scale government platforms to tools that make everyday work simpler.
 
 ---
 
@@ -13,7 +13,7 @@ I build software that solves real problems, from national-scale government platf
 ## Start Here
 
 - 📮 **[CLRD](https://operator.clrd.nipost.gov.ng/signup)** - Nigeria Post's national courier management platform. Licensing and oversight for 1,000+ courier and logistics companies.
-- 🏢 **[BrandDrive](https://branddrive.co/)** - The operating system for modern businesses.
+- 💸 **[Ratefy](https://ratefy.co/)** - Send, receive and convert Naira, USD and stablecoins.
 - ✅ **[PassMark AI](https://www.passmark.ai/)** - Grade handwritten scripts instantly, with AI precision.
 - 🎓 **[Sawari AI](https://sawari.synchrome.co/)** - Free courses, built around your actual schedule.
 - 📝 **[NotepaperAI](https://notepaperai.synchrome.co/)** - Write like it's paper.
